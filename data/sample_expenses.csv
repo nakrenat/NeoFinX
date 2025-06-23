@@ -1,0 +1,416 @@
+date,amount,category,description
+2024-12-25,46.64,Sağlık,Sağlık harcaması
+2024-12-25,112.76,Eğlence,Eğlence harcaması
+2024-12-25,109.48,Eğitim,Eğitim harcaması
+2024-12-26,196.05,Alışveriş,Alışveriş harcaması
+2024-12-26,32.33,Ulaşım,Ulaşım harcaması
+2024-12-27,157.08,Alışveriş,Alışveriş harcaması
+2024-12-27,54.84,Yemek & İçecek,Yemek & İçecek harcaması
+2024-12-28,22.17,Spor,Spor harcaması
+2024-12-28,10.0,Yemek & İçecek,Yemek & İçecek harcaması
+2024-12-28,124.14,Eğlence,Eğlence harcaması
+2024-12-28,69.39,Eğitim,Eğitim harcaması
+2024-12-29,114.22,Eğlence,Eğlence harcaması
+2024-12-30,132.4,Alışveriş,Alışveriş harcaması
+2024-12-30,69.25,Spor,Spor harcaması
+2024-12-30,28.6,Ulaşım,Ulaşım harcaması
+2024-12-31,79.0,Sağlık,Sağlık harcaması
+2024-12-31,98.26,Eğitim,Eğitim harcaması
+2025-01-01,57.46,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-01,96.98,Sağlık,Sağlık harcaması
+2025-01-01,164.78,Faturalar,Faturalar harcaması
+2025-01-02,58.46,Diğer,Diğer harcaması
+2025-01-02,30.67,Ulaşım,Ulaşım harcaması
+2025-01-03,36.98,Ulaşım,Ulaşım harcaması
+2025-01-03,65.71,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-04,84.11,Eğitim,Eğitim harcaması
+2025-01-04,151.53,Alışveriş,Alışveriş harcaması
+2025-01-05,53.41,Ulaşım,Ulaşım harcaması
+2025-01-05,96.77,Spor,Spor harcaması
+2025-01-05,48.91,Spor,Spor harcaması
+2025-01-05,57.17,Spor,Spor harcaması
+2025-01-06,53.08,Spor,Spor harcaması
+2025-01-06,85.29,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-06,141.24,Eğlence,Eğlence harcaması
+2025-01-07,205.88,Alışveriş,Alışveriş harcaması
+2025-01-08,86.56,Eğitim,Eğitim harcaması
+2025-01-08,76.03,Spor,Spor harcaması
+2025-01-09,27.54,Ulaşım,Ulaşım harcaması
+2025-01-09,50.76,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-09,198.75,Alışveriş,Alışveriş harcaması
+2025-01-09,154.25,Eğlence,Eğlence harcaması
+2025-01-10,114.47,Eğlence,Eğlence harcaması
+2025-01-11,111.29,Alışveriş,Alışveriş harcaması
+2025-01-12,69.1,Eğitim,Eğitim harcaması
+2025-01-12,109.12,Spor,Spor harcaması
+2025-01-13,72.18,Diğer,Diğer harcaması
+2025-01-13,71.03,Sağlık,Sağlık harcaması
+2025-01-13,73.41,Sağlık,Sağlık harcaması
+2025-01-14,90.71,Sağlık,Sağlık harcaması
+2025-01-15,49.79,Eğitim,Eğitim harcaması
+2025-01-16,57.46,Diğer,Diğer harcaması
+2025-01-16,67.37,Spor,Spor harcaması
+2025-01-17,51.34,Sağlık,Sağlık harcaması
+2025-01-17,61.81,Diğer,Diğer harcaması
+2025-01-17,32.77,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-17,42.16,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-18,33.41,Spor,Spor harcaması
+2025-01-18,100.2,Eğlence,Eğlence harcaması
+2025-01-18,64.14,Spor,Spor harcaması
+2025-01-18,84.22,Alışveriş,Alışveriş harcaması
+2025-01-19,245.74,Faturalar,Faturalar harcaması
+2025-01-19,46.42,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-19,78.08,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-19,22.03,Diğer,Diğer harcaması
+2025-01-20,69.34,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-21,48.71,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-22,170.69,Alışveriş,Alışveriş harcaması
+2025-01-22,78.67,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-22,213.95,Alışveriş,Alışveriş harcaması
+2025-01-23,98.57,Diğer,Diğer harcaması
+2025-01-23,65.04,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-23,270.14,Faturalar,Faturalar harcaması
+2025-01-23,129.91,Faturalar,Faturalar harcaması
+2025-01-24,50.56,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-24,52.12,Eğlence,Eğlence harcaması
+2025-01-25,80.27,Sağlık,Sağlık harcaması
+2025-01-25,85.38,Eğlence,Eğlence harcaması
+2025-01-25,48.13,Sağlık,Sağlık harcaması
+2025-01-25,59.47,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-26,50.42,Eğitim,Eğitim harcaması
+2025-01-26,61.95,Eğitim,Eğitim harcaması
+2025-01-26,90.34,Diğer,Diğer harcaması
+2025-01-26,39.23,Diğer,Diğer harcaması
+2025-01-27,27.24,Spor,Spor harcaması
+2025-01-27,52.38,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-27,165.59,Alışveriş,Alışveriş harcaması
+2025-01-27,89.55,Spor,Spor harcaması
+2025-01-28,132.65,Eğlence,Eğlence harcaması
+2025-01-29,81.79,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-29,230.88,Faturalar,Faturalar harcaması
+2025-01-29,74.34,Yemek & İçecek,Yemek & İçecek harcaması
+2025-01-29,86.33,Kişisel Bakım,Kişisel Bakım harcaması
+2025-01-30,144.11,Eğlence,Eğlence harcaması
+2025-01-30,74.37,Spor,Spor harcaması
+2025-01-31,51.33,Eğlence,Eğlence harcaması
+2025-01-31,36.75,Spor,Spor harcaması
+2025-02-01,69.37,Kişisel Bakım,Kişisel Bakım harcaması
+2025-02-01,46.0,Eğitim,Eğitim harcaması
+2025-02-01,144.2,Eğlence,Eğlence harcaması
+2025-02-01,155.52,Faturalar,Faturalar harcaması
+2025-02-02,159.21,Faturalar,Faturalar harcaması
+2025-02-02,111.07,Eğlence,Eğlence harcaması
+2025-02-03,199.63,Alışveriş,Alışveriş harcaması
+2025-02-03,44.71,Yemek & İçecek,Yemek & İçecek harcaması
+2025-02-04,208.81,Eğlence,Eğlence harcaması
+2025-02-05,99.54,Eğlence,Eğlence harcaması
+2025-02-05,161.44,Alışveriş,Alışveriş harcaması
+2025-02-05,193.79,Faturalar,Faturalar harcaması
+2025-02-05,194.42,Alışveriş,Alışveriş harcaması
+2025-02-06,62.02,Eğlence,Eğlence harcaması
+2025-02-06,38.06,Yemek & İçecek,Yemek & İçecek harcaması
+2025-02-06,108.56,Eğlence,Eğlence harcaması
+2025-02-07,137.71,Faturalar,Faturalar harcaması
+2025-02-07,85.88,Diğer,Diğer harcaması
+2025-02-07,42.99,Eğitim,Eğitim harcaması
+2025-02-08,78.94,Diğer,Diğer harcaması
+2025-02-08,61.22,Yemek & İçecek,Yemek & İçecek harcaması
+2025-02-09,131.12,Faturalar,Faturalar harcaması
+2025-02-10,46.55,Diğer,Diğer harcaması
+2025-02-10,126.27,Eğlence,Eğlence harcaması
+2025-02-10,34.1,Diğer,Diğer harcaması
+2025-02-11,40.42,Spor,Spor harcaması
+2025-02-11,82.37,Kişisel Bakım,Kişisel Bakım harcaması
+2025-02-11,53.9,Eğlence,Eğlence harcaması
+2025-02-12,32.48,Eğitim,Eğitim harcaması
+2025-02-12,154.33,Faturalar,Faturalar harcaması
+2025-02-13,177.25,Faturalar,Faturalar harcaması
+2025-02-13,59.68,Diğer,Diğer harcaması
+2025-02-14,229.78,Faturalar,Faturalar harcaması
+2025-02-14,100.42,Faturalar,Faturalar harcaması
+2025-02-15,175.56,Alışveriş,Alışveriş harcaması
+2025-02-15,222.62,Alışveriş,Alışveriş harcaması
+2025-02-15,75.46,Sağlık,Sağlık harcaması
+2025-02-15,154.54,Eğlence,Eğlence harcaması
+2025-02-16,38.29,Ulaşım,Ulaşım harcaması
+2025-02-17,96.2,Diğer,Diğer harcaması
+2025-02-17,74.86,Eğlence,Eğlence harcaması
+2025-02-17,50.7,Diğer,Diğer harcaması
+2025-02-17,111.53,Diğer,Diğer harcaması
+2025-02-18,19.02,Yemek & İçecek,Yemek & İçecek harcaması
+2025-02-18,182.84,Faturalar,Faturalar harcaması
+2025-02-19,38.48,Spor,Spor harcaması
+2025-02-19,92.95,Eğitim,Eğitim harcaması
+2025-02-19,70.39,Alışveriş,Alışveriş harcaması
+2025-02-19,116.09,Diğer,Diğer harcaması
+2025-02-20,90.5,Eğlence,Eğlence harcaması
+2025-02-20,116.8,Diğer,Diğer harcaması
+2025-02-20,10.0,Diğer,Diğer harcaması
+2025-02-20,29.51,Yemek & İçecek,Yemek & İçecek harcaması
+2025-02-21,247.94,Alışveriş,Alışveriş harcaması
+2025-02-21,64.19,Alışveriş,Alışveriş harcaması
+2025-02-22,30.02,Ulaşım,Ulaşım harcaması
+2025-02-22,88.9,Kişisel Bakım,Kişisel Bakım harcaması
+2025-02-22,208.36,Alışveriş,Alışveriş harcaması
+2025-02-22,108.61,Eğitim,Eğitim harcaması
+2025-02-23,56.88,Yemek & İçecek,Yemek & İçecek harcaması
+2025-02-23,107.79,Sağlık,Sağlık harcaması
+2025-02-24,19.66,Ulaşım,Ulaşım harcaması
+2025-02-24,108.17,Eğlence,Eğlence harcaması
+2025-02-24,218.22,Alışveriş,Alışveriş harcaması
+2025-02-24,81.17,Kişisel Bakım,Kişisel Bakım harcaması
+2025-02-25,31.1,Ulaşım,Ulaşım harcaması
+2025-02-25,59.25,Eğitim,Eğitim harcaması
+2025-02-26,92.12,Diğer,Diğer harcaması
+2025-02-27,25.35,Ulaşım,Ulaşım harcaması
+2025-02-27,75.11,Eğlence,Eğlence harcaması
+2025-02-28,26.45,Ulaşım,Ulaşım harcaması
+2025-03-01,90.32,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-02,98.89,Sağlık,Sağlık harcaması
+2025-03-03,194.84,Alışveriş,Alışveriş harcaması
+2025-03-03,62.21,Yemek & İçecek,Yemek & İçecek harcaması
+2025-03-04,118.33,Sağlık,Sağlık harcaması
+2025-03-04,55.21,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-04,108.82,Eğitim,Eğitim harcaması
+2025-03-05,82.42,Eğlence,Eğlence harcaması
+2025-03-06,43.48,Yemek & İçecek,Yemek & İçecek harcaması
+2025-03-07,362.7,Faturalar,Faturalar harcaması
+2025-03-08,112.97,Eğlence,Eğlence harcaması
+2025-03-09,76.1,Sağlık,Sağlık harcaması
+2025-03-09,65.87,Eğlence,Eğlence harcaması
+2025-03-09,149.14,Alışveriş,Alışveriş harcaması
+2025-03-09,144.94,Eğlence,Eğlence harcaması
+2025-03-10,144.3,Sağlık,Sağlık harcaması
+2025-03-11,61.44,Eğitim,Eğitim harcaması
+2025-03-12,76.23,Diğer,Diğer harcaması
+2025-03-13,78.11,Eğitim,Eğitim harcaması
+2025-03-13,46.75,Ulaşım,Ulaşım harcaması
+2025-03-14,85.35,Spor,Spor harcaması
+2025-03-14,267.89,Faturalar,Faturalar harcaması
+2025-03-14,34.01,Eğitim,Eğitim harcaması
+2025-03-15,26.17,Ulaşım,Ulaşım harcaması
+2025-03-16,71.11,Diğer,Diğer harcaması
+2025-03-16,141.19,Faturalar,Faturalar harcaması
+2025-03-16,142.43,Eğlence,Eğlence harcaması
+2025-03-17,87.12,Sağlık,Sağlık harcaması
+2025-03-17,36.72,Yemek & İçecek,Yemek & İçecek harcaması
+2025-03-18,154.4,Eğlence,Eğlence harcaması
+2025-03-18,149.03,Faturalar,Faturalar harcaması
+2025-03-18,133.28,Eğlence,Eğlence harcaması
+2025-03-19,77.03,Eğlence,Eğlence harcaması
+2025-03-19,32.7,Diğer,Diğer harcaması
+2025-03-19,118.13,Sağlık,Sağlık harcaması
+2025-03-20,89.27,Spor,Spor harcaması
+2025-03-21,51.15,Yemek & İçecek,Yemek & İçecek harcaması
+2025-03-21,99.35,Alışveriş,Alışveriş harcaması
+2025-03-21,105.16,Faturalar,Faturalar harcaması
+2025-03-22,229.95,Faturalar,Faturalar harcaması
+2025-03-22,178.42,Alışveriş,Alışveriş harcaması
+2025-03-22,30.54,Ulaşım,Ulaşım harcaması
+2025-03-22,52.45,Spor,Spor harcaması
+2025-03-23,91.97,Alışveriş,Alışveriş harcaması
+2025-03-24,271.84,Faturalar,Faturalar harcaması
+2025-03-24,52.46,Diğer,Diğer harcaması
+2025-03-25,48.11,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-25,135.91,Alışveriş,Alışveriş harcaması
+2025-03-25,81.57,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-25,43.98,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-26,22.02,Ulaşım,Ulaşım harcaması
+2025-03-26,39.86,Sağlık,Sağlık harcaması
+2025-03-27,286.39,Faturalar,Faturalar harcaması
+2025-03-27,40.3,Eğlence,Eğlence harcaması
+2025-03-27,133.99,Faturalar,Faturalar harcaması
+2025-03-27,115.79,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-28,17.68,Ulaşım,Ulaşım harcaması
+2025-03-28,74.74,Kişisel Bakım,Kişisel Bakım harcaması
+2025-03-29,214.77,Faturalar,Faturalar harcaması
+2025-03-30,42.57,Spor,Spor harcaması
+2025-03-30,212.93,Faturalar,Faturalar harcaması
+2025-03-30,74.65,Yemek & İçecek,Yemek & İçecek harcaması
+2025-03-31,30.14,Spor,Spor harcaması
+2025-03-31,55.02,Eğitim,Eğitim harcaması
+2025-04-01,82.78,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-01,109.01,Eğlence,Eğlence harcaması
+2025-04-02,58.75,Eğitim,Eğitim harcaması
+2025-04-03,85.57,Spor,Spor harcaması
+2025-04-03,52.41,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-04,60.29,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-04,10.0,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-05,27.32,Ulaşım,Ulaşım harcaması
+2025-04-05,91.21,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-05,113.88,Spor,Spor harcaması
+2025-04-06,86.13,Eğitim,Eğitim harcaması
+2025-04-07,154.75,Eğlence,Eğlence harcaması
+2025-04-07,96.46,Eğitim,Eğitim harcaması
+2025-04-08,29.65,Eğlence,Eğlence harcaması
+2025-04-08,32.0,Ulaşım,Ulaşım harcaması
+2025-04-09,15.73,Eğitim,Eğitim harcaması
+2025-04-09,27.42,Diğer,Diğer harcaması
+2025-04-09,68.61,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-09,149.63,Alışveriş,Alışveriş harcaması
+2025-04-10,116.12,Eğlence,Eğlence harcaması
+2025-04-11,128.55,Spor,Spor harcaması
+2025-04-11,144.91,Faturalar,Faturalar harcaması
+2025-04-11,84.01,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-12,63.51,Eğlence,Eğlence harcaması
+2025-04-13,118.71,Eğlence,Eğlence harcaması
+2025-04-13,70.38,Diğer,Diğer harcaması
+2025-04-13,67.38,Eğlence,Eğlence harcaması
+2025-04-13,116.46,Alışveriş,Alışveriş harcaması
+2025-04-14,10.0,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-14,35.13,Ulaşım,Ulaşım harcaması
+2025-04-15,67.45,Diğer,Diğer harcaması
+2025-04-16,71.05,Spor,Spor harcaması
+2025-04-17,67.19,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-17,45.58,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-18,53.56,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-18,70.89,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-18,238.44,Faturalar,Faturalar harcaması
+2025-04-18,50.49,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-19,84.41,Diğer,Diğer harcaması
+2025-04-19,33.11,Ulaşım,Ulaşım harcaması
+2025-04-20,119.68,Faturalar,Faturalar harcaması
+2025-04-20,75.09,Spor,Spor harcaması
+2025-04-21,165.6,Alışveriş,Alışveriş harcaması
+2025-04-21,24.18,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-21,71.88,Eğitim,Eğitim harcaması
+2025-04-22,32.5,Yemek & İçecek,Yemek & İçecek harcaması
+2025-04-23,14.7,Sağlık,Sağlık harcaması
+2025-04-24,26.09,Ulaşım,Ulaşım harcaması
+2025-04-25,151.23,Sağlık,Sağlık harcaması
+2025-04-25,95.36,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-25,44.07,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-26,138.58,Alışveriş,Alışveriş harcaması
+2025-04-27,107.79,Sağlık,Sağlık harcaması
+2025-04-27,117.74,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-28,130.07,Faturalar,Faturalar harcaması
+2025-04-28,228.15,Faturalar,Faturalar harcaması
+2025-04-28,122.51,Alışveriş,Alışveriş harcaması
+2025-04-29,54.35,Kişisel Bakım,Kişisel Bakım harcaması
+2025-04-29,89.94,Eğitim,Eğitim harcaması
+2025-04-29,207.26,Faturalar,Faturalar harcaması
+2025-04-29,163.8,Faturalar,Faturalar harcaması
+2025-04-30,56.69,Spor,Spor harcaması
+2025-04-30,50.43,Ulaşım,Ulaşım harcaması
+2025-04-30,164.78,Eğlence,Eğlence harcaması
+2025-05-01,116.13,Alışveriş,Alışveriş harcaması
+2025-05-02,49.94,Sağlık,Sağlık harcaması
+2025-05-02,54.32,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-02,84.18,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-03,143.04,Faturalar,Faturalar harcaması
+2025-05-03,88.03,Sağlık,Sağlık harcaması
+2025-05-04,94.06,Eğlence,Eğlence harcaması
+2025-05-05,125.55,Alışveriş,Alışveriş harcaması
+2025-05-05,34.99,Eğitim,Eğitim harcaması
+2025-05-06,32.3,Ulaşım,Ulaşım harcaması
+2025-05-06,105.07,Sağlık,Sağlık harcaması
+2025-05-06,27.41,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-06,51.92,Spor,Spor harcaması
+2025-05-07,197.35,Eğlence,Eğlence harcaması
+2025-05-07,59.03,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-07,36.44,Ulaşım,Ulaşım harcaması
+2025-05-08,160.18,Alışveriş,Alışveriş harcaması
+2025-05-08,103.58,Eğlence,Eğlence harcaması
+2025-05-09,59.76,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-09,109.5,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-09,89.07,Spor,Spor harcaması
+2025-05-10,188.28,Alışveriş,Alışveriş harcaması
+2025-05-10,182.61,Alışveriş,Alışveriş harcaması
+2025-05-10,95.87,Diğer,Diğer harcaması
+2025-05-11,104.61,Sağlık,Sağlık harcaması
+2025-05-11,12.93,Ulaşım,Ulaşım harcaması
+2025-05-12,19.05,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-12,59.68,Eğlence,Eğlence harcaması
+2025-05-12,83.68,Faturalar,Faturalar harcaması
+2025-05-12,80.22,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-13,45.22,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-14,199.39,Alışveriş,Alışveriş harcaması
+2025-05-14,76.05,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-15,123.48,Faturalar,Faturalar harcaması
+2025-05-15,40.86,Eğlence,Eğlence harcaması
+2025-05-16,114.31,Sağlık,Sağlık harcaması
+2025-05-16,69.32,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-16,82.46,Sağlık,Sağlık harcaması
+2025-05-16,241.41,Faturalar,Faturalar harcaması
+2025-05-17,95.25,Eğitim,Eğitim harcaması
+2025-05-17,51.43,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-17,58.06,Diğer,Diğer harcaması
+2025-05-18,95.94,Diğer,Diğer harcaması
+2025-05-19,64.7,Sağlık,Sağlık harcaması
+2025-05-19,71.38,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-19,132.64,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-20,108.92,Sağlık,Sağlık harcaması
+2025-05-21,138.94,Eğlence,Eğlence harcaması
+2025-05-21,168.25,Eğlence,Eğlence harcaması
+2025-05-21,181.02,Alışveriş,Alışveriş harcaması
+2025-05-22,40.56,Diğer,Diğer harcaması
+2025-05-22,52.99,Eğitim,Eğitim harcaması
+2025-05-22,74.51,Diğer,Diğer harcaması
+2025-05-22,136.09,Spor,Spor harcaması
+2025-05-23,114.55,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-24,185.42,Alışveriş,Alışveriş harcaması
+2025-05-24,100.12,Kişisel Bakım,Kişisel Bakım harcaması
+2025-05-24,86.81,Diğer,Diğer harcaması
+2025-05-24,109.83,Spor,Spor harcaması
+2025-05-25,57.22,Spor,Spor harcaması
+2025-05-25,168.63,Faturalar,Faturalar harcaması
+2025-05-25,65.14,Sağlık,Sağlık harcaması
+2025-05-25,176.33,Faturalar,Faturalar harcaması
+2025-05-26,93.8,Eğitim,Eğitim harcaması
+2025-05-26,32.3,Eğlence,Eğlence harcaması
+2025-05-27,241.77,Alışveriş,Alışveriş harcaması
+2025-05-28,44.7,Diğer,Diğer harcaması
+2025-05-29,28.63,Diğer,Diğer harcaması
+2025-05-30,135.5,Faturalar,Faturalar harcaması
+2025-05-30,17.05,Ulaşım,Ulaşım harcaması
+2025-05-30,41.13,Yemek & İçecek,Yemek & İçecek harcaması
+2025-05-31,103.31,Eğlence,Eğlence harcaması
+2025-05-31,199.67,Faturalar,Faturalar harcaması
+2025-05-31,134.04,Faturalar,Faturalar harcaması
+2025-06-01,95.97,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-02,165.09,Faturalar,Faturalar harcaması
+2025-06-02,63.28,Diğer,Diğer harcaması
+2025-06-02,42.34,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-03,53.06,Eğitim,Eğitim harcaması
+2025-06-04,105.97,Eğlence,Eğlence harcaması
+2025-06-04,67.13,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-04,53.1,Yemek & İçecek,Yemek & İçecek harcaması
+2025-06-05,28.73,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-06,37.01,Ulaşım,Ulaşım harcaması
+2025-06-06,14.65,Ulaşım,Ulaşım harcaması
+2025-06-06,339.8,Faturalar,Faturalar harcaması
+2025-06-07,88.7,Sağlık,Sağlık harcaması
+2025-06-07,63.63,Eğitim,Eğitim harcaması
+2025-06-07,43.7,Eğlence,Eğlence harcaması
+2025-06-08,22.22,Ulaşım,Ulaşım harcaması
+2025-06-08,68.71,Yemek & İçecek,Yemek & İçecek harcaması
+2025-06-09,101.79,Spor,Spor harcaması
+2025-06-10,128.87,Eğlence,Eğlence harcaması
+2025-06-10,41.77,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-10,240.63,Faturalar,Faturalar harcaması
+2025-06-11,12.39,Yemek & İçecek,Yemek & İçecek harcaması
+2025-06-11,63.99,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-11,60.63,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-12,29.2,Sağlık,Sağlık harcaması
+2025-06-12,20.99,Ulaşım,Ulaşım harcaması
+2025-06-13,28.26,Diğer,Diğer harcaması
+2025-06-13,47.65,Ulaşım,Ulaşım harcaması
+2025-06-13,39.55,Yemek & İçecek,Yemek & İçecek harcaması
+2025-06-14,40.49,Ulaşım,Ulaşım harcaması
+2025-06-14,37.73,Eğlence,Eğlence harcaması
+2025-06-15,186.36,Alışveriş,Alışveriş harcaması
+2025-06-16,26.16,Spor,Spor harcaması
+2025-06-16,63.65,Sağlık,Sağlık harcaması
+2025-06-17,182.25,Faturalar,Faturalar harcaması
+2025-06-17,76.44,Kişisel Bakım,Kişisel Bakım harcaması
+2025-06-18,61.61,Eğitim,Eğitim harcaması
+2025-06-18,153.84,Eğlence,Eğlence harcaması
+2025-06-18,56.16,Yemek & İçecek,Yemek & İçecek harcaması
+2025-06-19,27.25,Spor,Spor harcaması
+2025-06-20,74.27,Spor,Spor harcaması
+2025-06-20,74.48,Sağlık,Sağlık harcaması
+2025-06-20,37.79,Diğer,Diğer harcaması
+2025-06-21,156.05,Alışveriş,Alışveriş harcaması
+2025-06-21,118.52,Faturalar,Faturalar harcaması
+2025-06-21,61.04,Yemek & İçecek,Yemek & İçecek harcaması
+2025-06-22,115.27,Spor,Spor harcaması

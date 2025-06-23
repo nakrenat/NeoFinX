@@ -1,0 +1,40 @@
+# Core Web Framework
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-CORS==4.0.0
+
+# Database
+SQLAlchemy==2.0.23
+
+# Streamlit for Dashboard
+streamlit
+plotly
+
+# API & Utilities
+requests
+python-dotenv
+
+# CSV processing
+openpyxl
+
+# PDF Generation
+reportlab
+
+# Advanced Analytics & Predictions
+scipy
+statsmodels
+
+# Date utilities
+python-dateutil
+
+# OpenAI ChatGPT Integration
+openai
+
+# Data Processing
+pandas
+
+# JWT Authentication
+Flask-JWT-Extended
+
+# Not: numpy, sklearn gibi paketler Python 3.13 ile uyumsuzluk yaşıyor
+# Bu paketler daha sonra compatible versiyonlar çıktığında eklenecek 
