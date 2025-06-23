@@ -21,8 +21,12 @@ import openai
 import pandas as pd
 from personality_analyzer import PersonalityAnalyzer
 
-# .env dosyasını yükle
+# .env dosyasını yükle (local development için)
 load_dotenv()
+
+# Streamlit Cloud compatibility - data klasörü oluştur
+if not os.path.exists('data'):
+    os.makedirs('data', exist_ok=True)
 
 # Modern sayfa konfigürasyonu
 st.set_page_config(
@@ -2058,8 +2062,8 @@ def get_user_spending_summary():
 def generate_chatbot_response(user_input, user_data=None):
     """OpenAI ChatGPT ile güçlendirilmiş chatbot yanıtları"""
     
-    # OpenAI API key'i kontrol et
-    api_key = os.getenv('OPENAI_API_KEY')
+    # OpenAI API key'i kontrol et (Streamlit secrets veya environment variable)
+    api_key = st.secrets.get('OPENAI_API_KEY') or os.getenv('OPENAI_API_KEY')
     
     # Kullanıcı verisini context olarak hazırla
     context = ""

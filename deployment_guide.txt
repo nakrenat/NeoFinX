@@ -1,0 +1,11 @@
+﻿# Streamlit Community Cloud Deployment
+
+1. share.streamlit.io adresine git
+2. GitHub ile giriş yap
+3. 'Create app' butonuna tıkla
+4. Repository: nakrenat/NeoFinX seç
+5. Branch: main
+6. Main file path: dashboard.py
+7. Deploy butonuna tıkla!
+
+Uygulaman birkaç dakika içinde hazır! 
